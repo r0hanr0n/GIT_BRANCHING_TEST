@@ -1,2 +1,3 @@
 Here we will learn about branching.
 Currently we are on the master branch.
+We need to learn how to make a branch.
