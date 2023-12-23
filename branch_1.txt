@@ -2,3 +2,4 @@ This is a new branch.
 We named this, branch1.
 Now we will merge this branch with master after this commit.
 This is the change after merging.
+This will be second change in branch_2 after merge.
