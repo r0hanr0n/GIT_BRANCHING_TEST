@@ -1,1 +1,2 @@
 Here we will learn about branching.
+Currently we are on the master branch.
