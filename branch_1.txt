@@ -1,5 +1,13 @@
 This is a new branch.
 We named this, branch1.
 Now we will merge this branch with master after this commit.
+
+We deleted both these lines:
+This is the change after merging.
+This will be third change in branch_2(type mistake ~ branch_1) after merge.
+
 This is change in same file but in branch_2 after merge.
 This will be second change in branch_2 after merge.
+
+And kept this for final merge commit:
+This is the final accepted change for merge.
