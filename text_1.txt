@@ -1,8 +1,6 @@
 Here we will learn about branching.
 Currently we are on the master branch.
 We need to learn how to make a branch.
-<<<<<<< HEAD
 This is change in master branch after merge.
-=======
 Now we are back on the master branch and we will make some changes.
->>>>>>> branch_2
+This is change on master branch after merge.
